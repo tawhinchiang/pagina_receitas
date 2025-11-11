@@ -1,0 +1,14 @@
+body {
+    background-image: url(assets/bg.jpg);
+
+}
+
+#page {
+    
+    width: 800px;
+    padding: 24px;
+    background-color: #F0E8C2;
+    border-raidius: 24px;
+    margin:48px auto;
+    box-sizing: border-box;
+}
